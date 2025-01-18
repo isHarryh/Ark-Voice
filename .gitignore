@@ -1,0 +1,10 @@
+# Ignore non-repository files in Git
+
+/*
+!/voice/
+!/voice_cn/
+!/voice_kr/
+!/voice_en/
+!/voice_custom/
+!/voice_data.json
+!/README*.md
